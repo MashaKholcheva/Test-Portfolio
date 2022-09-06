@@ -3,3 +3,7 @@
 ---
 
 [Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1oHG1DOuFbHOFN13ClpAxmiMGFtNCV_oJLhGUh50E4ow/edit?usp=sharing)
+
+---
+
+[Пример тестового 2] https://docs.google.com/document/d/1OWUxTnciKha77jOV2aWAW64pu2BZPHf8b3e2cQyaHtc/edit
