@@ -6,4 +6,4 @@
 
 ---
 
-[Пример тестового 2] https://docs.google.com/document/d/1OWUxTnciKha77jOV2aWAW64pu2BZPHf8b3e2cQyaHtc/edit
+[Пример тестового 2](https://docs.google.com/document/d/1OWUxTnciKha77jOV2aWAW64pu2BZPHf8b3e2cQyaHtc/edit)
